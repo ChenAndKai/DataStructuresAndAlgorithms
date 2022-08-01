@@ -15,9 +15,9 @@ const stack = new Stack();
 // console.log(stack.size());
 
 
-console.log(dec2bin(10));
-console.log(dec2bin(100));
-console.log(dec2bin(1000));
+// console.log(dec2bin(10));
+// console.log(dec2bin(100));
+// console.log(dec2bin(1000));
 
 
 
